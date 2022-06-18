@@ -14,7 +14,7 @@ h1 {
 	padding: 20px 450px;
 }
 .página {
-	width: 940px;
+	width: 100%;
 	padding: 50px 0 110px 0;
 }
 .logo {
@@ -25,7 +25,7 @@ h1 {
 	display: inline-block;
 	width: 500px;
 	height: 290px;
-	margin-left: 820px;
+	margin-left: 61%;
 	border-radius: 15px;
 }
 .chamada {
