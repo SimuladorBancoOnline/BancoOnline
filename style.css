@@ -1,0 +1,105 @@
+body {
+	background: #000000;
+}
+header {
+	background: #CCCCCC;
+	width: 100%;
+}
+h1 {
+	width: 500px;
+	height: 35px;
+	font-weight: bold;
+	font-size: 35px;
+	font-family: arial;
+	padding: 20px 450px;
+}
+.página {
+	width: 940px;
+	padding: 50px 0 110px 0;
+}
+.logo {
+	position: absolute;
+	margin-left: 20px;
+}
+.imagem {
+	display: inline-block;
+	width: 500px;
+	height: 290px;
+	margin-left: 820px;
+	border-radius: 15px;
+}
+.chamada {
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	text-shadow: 4px 4px 10px #666666;
+	width: 290px;
+	height: 40px;
+	box-sizing: border-box;
+	position: absolute;
+	top: 250px;
+	left: 660px;
+}
+.text {
+	font-family: helvetica;
+	font-size: 15px;
+	margin-top: 40px;
+	margin-left: 20px;
+	color: white;
+}
+.bt {
+	background: #002FFF;
+	font-family: arial;
+	color: white;
+	margin: 20px 0px 0px 400px;
+	padding: 7px 20px;
+	border-radius: 15px;
+	cursor: pointer;
+	width: 120px;
+	height: 35px;
+}
+.bt:hover {
+	font-size: 17px;
+	background: #0083FF;
+}
+#btWhats {
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+	border-radius: 25px 25px 25px 0;
+}
+.baixo {
+	background: #CCCCCC;
+	width: 100%;
+	height: 120px;
+	box-sizing: border-box;
+}
+.imgBlack {
+	position: absolute;
+	width: 200px;
+	height: 120;
+	margin-left: 320px;
+}
+.textFooter {
+	width: 228px;
+	padding-top: 60px;
+	font-size: 12px;
+	margin-left: 570px;
+}
+.lista  {
+	display: inline;
+}
+.redes_sociais_instagram {
+	width: 20px;
+	height: 20px;
+	margin-left: 900px;
+	position: absolute;
+}
+.redes_sociais_facebook {
+	width: 20px;
+	height: 20px;
+	margin-left: 930px;
+	display: inline-block;
+}
