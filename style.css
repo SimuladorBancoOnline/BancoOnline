@@ -103,3 +103,8 @@ h1 {
 	margin-left: 930px;
 	display: inline-block;
 }
+@media screen and (max-width: 760px) {
+	body {
+		background-color: blue;
+	}
+}
